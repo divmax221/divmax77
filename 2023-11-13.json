@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Saunders",
+  "age": 20,
+  "address": {
+    "street": "Azpeb Highway",
+    "city": "Limrojfaj",
+    "state": "AL",
+    "zip": "70404"
+  },
+  "contact": {
+    "phone": "(902) 670-7868",
+    "servicePhone": "800739316"
+  },
+  "birthday": "1963-08-06T22:14:41.500Z",
+  "ip": "142.233.59.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Penico ga weeje tebiefe cedtus ged efgi zirremmu fivap vulep vezovo efo wu po cubhe porozpu kohim zockabkom. Iserawku jibubem pafal iwofe da pukadvuw gawkulref ha gehhivsu petsopda wuret foru jojases. Vu vi jazo so olja woli lu ih hasko nefrav fijiw jana.",
+    "bio": "Jarjimded kogi zub iv emne tisahwam mel kuk igu geruze loaknin rampidid edezizow am ekuere dodugol mohwez hewerpon. Liwvefzec jitceb ku ijohu piemede nage anutonid izukuk ijmecow zeuwo cuz uteohu tuleh. Kat pu me gemi rinafe wiaz dinlib ufivabur ranzubge mim ehiiggof rom ireeha."
+  },
+  "apiKey": "fc65918e7381776c36259bf95b6f052274731bb365813c82d1c0fa688d940434",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
