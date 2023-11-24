@@ -1,0 +1,26 @@
+{
+  "name": "Helena Carter",
+  "age": 23,
+  "address": {
+    "street": "Deze Pass",
+    "city": "Agesetil",
+    "state": "OR",
+    "zip": "01658"
+  },
+  "contact": {
+    "phone": "(713) 592-4186",
+    "servicePhone": "800326883"
+  },
+  "birthday": "1962-12-25T00:00:40.463Z",
+  "ip": "180.59.51.210",
+  "foo": "bar",
+  "profile": {
+    "about": "No jirbajoc roatepu poec selwu fegeji vobde nocnifaw negwamof loj topnab wiven tije. Vosdoljod maf coj zem katgem dodpag weh nahnavemu medew raca jo vukgun ruf telhawsah vif otice va. Kewduzuk bejtir azzetune lebazevi nucivzi zi bi jak reduvsi rovuh sajisi ehejid edop. Woh riwiv zo ufi safti ucito ko donseeg hobbalu webre zotewat bibfeep woraar zohoja calos wezfe kus weswu.",
+    "bio": "Casojla lelluv edu duurok muurbo amova utopu gihbim moanwu kolo ag fe vuruesu sawwohi. Ri ufu zalodi segcu afcu julorwir fufe ne ba sijpa dun hekgancu ofaguef vezhul fitri fonopa dufon. Pe bu cikepe ri kahorba ibedo ono dakriuca gajki ud ot zu zot ce."
+  },
+  "apiKey": "cc27cc0489e0c4128480b83ba6df809336ec34a5179f2f5127ee4f09334f1926",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
