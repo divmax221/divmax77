@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Blake",
+  "age": 60,
+  "address": {
+    "street": "Hofon Street",
+    "city": "Utacabuf",
+    "state": "AL",
+    "zip": "02427"
+  },
+  "contact": {
+    "phone": "(882) 539-4601",
+    "servicePhone": "800747745"
+  },
+  "birthday": "1969-04-18T16:01:41.849Z",
+  "ip": "254.226.5.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Su usotom dikocfi donjulu jajzene foib rupne rajko dukfo cip mazkeh otakezto ohvobri sijgaz. Ahowi ves losjiz saszutdih ezo jowlevno fasgieha wi di tofu iso pakigi. Pezapsir ikutceh elefakja tif nun wavujija rawra utoefo nisit ew mem vokece rodfam jab.",
+    "bio": "Ofpi nifun cet ger jircebu wesuviwi izze zifajto bimnoraf ili edaka vu iginu kafa abemah. Rojem kecihle as so or uvpi lok merej cucojdu olela ma il kaf we cufhor hoksih buhmukhun elzadi. Mu ipnesteh usdeeni joszu maif ovolo pomjos wu mah jekmet uvusom edibo ova campicu ruvesofo vuteg di."
+  },
+  "apiKey": "aa2e0b8c0e42f890c8f3f93b83c664201b5a7646037837ef0b74547887977d9a",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
