@@ -1,0 +1,26 @@
+{
+  "name": "Jeanette Gross",
+  "age": 34,
+  "address": {
+    "street": "Udda Extension",
+    "city": "Tanedaki",
+    "state": "AR",
+    "zip": "79723"
+  },
+  "contact": {
+    "phone": "(886) 400-1206",
+    "servicePhone": "800372291"
+  },
+  "birthday": "1986-02-24T03:13:03.076Z",
+  "ip": "137.90.17.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Av dudbod ted samu puzid ovim pom fuwobni ju tuswajane opatif hi. Jow pion hojih sor rom rajga vackuzo visapiwe emzofko hepib zo paru otiilrez gar. Sawefo wigibih fup sihvebrew ad ka lehuhi uf aluevu jedtahze juitofa rima gob fuk.",
+    "bio": "Zojboav tidumla peveke levidif wahuperi uzzog ro ahi ru ugotos levfo fe zojdo luak buw ufokoka bevohu. Abosow tazarugi gikoez omju bo uvopeclo ebcih rizizuvo vego lebrozi sapsuaf ogaomaav beza bisi sok vamoabu. Waapesek ufevi peplop culaten anuvi nuzje ewo ide lebi lov sigal otafuno bub tor ohi. Pi vet iziuk idozihah ece cipdimek ile polzab kivgazjo hu disahja cehud wu gacfun hehozre gi."
+  },
+  "apiKey": "31a017f47d535614953f3864ed00ecc3171eaa875f2d2ed6650c6b52a547748e",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
