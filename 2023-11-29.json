@@ -1,0 +1,26 @@
+{
+  "name": "Carl Washington",
+  "age": 41,
+  "address": {
+    "street": "Arje Center",
+    "city": "Devifte",
+    "state": "VT",
+    "zip": "38499"
+  },
+  "contact": {
+    "phone": "(469) 718-6819",
+    "servicePhone": "800332237"
+  },
+  "birthday": "1999-05-05T05:30:30.446Z",
+  "ip": "117.131.9.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Dunufo addinmad il vid cowsufed ake baona duvina saz sailaloc cadkiwre ivuujwor te wetho. Seldinga abninat beupuki ajgorud vazifes zukli zuljalce rehufhid uz gaccum siwmirev wergaoge dufdu kub rafhon tasfedaf evupehki wectoh. Denu nomdowev didbud zajhoj mubkof vihiswez tad fa mawemha tiscosa ruuvjen mikfacewo de wo funojih amelocuc dimvangoj.",
+    "bio": "Jidedu udru zus pelhe gagadba ipu pe cogmulza ew jim arcogwo dohi. Odzobefe dop izami kic hig za nuuwoji paveciwu me ful muhpilla fa natanuwe pauhube. Raszafaf focjuz duneh hupaihu puroftoh kibi pu den noka turizpa etnohir giclon jij."
+  },
+  "apiKey": "b1cdde4ec62a96554ff35d954ae23aa0975d044979467202f7e6682f0b476dd6",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
