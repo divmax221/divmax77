@@ -1,0 +1,26 @@
+{
+  "name": "Justin Ferguson",
+  "age": 50,
+  "address": {
+    "street": "Ikza Terrace",
+    "city": "Cutiwsa",
+    "state": "NY",
+    "zip": "75575"
+  },
+  "contact": {
+    "phone": "(685) 588-2105",
+    "servicePhone": "800799718"
+  },
+  "birthday": "1992-12-29T18:11:36.109Z",
+  "ip": "25.156.14.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Jecti esoho fotu jidin moesi votzan kanvim nicken li he ahu sashohek uc. Dowed figazad batow uno jecmovmav kiv wudliobu lis pinioh juv fogopav kogja. Fosti vim vilnistet li tucvevi vuvguihe co eje adihudko awauhi nibvif furwew ibnep ca. Comos vec itufuh cu cu tavmotlib sijidzod pobjokucu zebfufew uh bosufvut eriaf kag bemedam.",
+    "bio": "Lidewi uveka zehmehor wuorzi now azij efefit wewuwvik aleuno gu tejduk ure mut veehfu juz. Pumzu huhbow icibivhe fa ke pi cobom roerpiv esa oraik vel em uj umvouba upu rakbatah. Daudiroh hid buha vagaet kav agoap boje di rihnot ciddeodu tolju fovufhoz."
+  },
+  "apiKey": "747dc3258f39a6cf30412905740a6007717c0f48738c43a6b6237648c2cadedf",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
