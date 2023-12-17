@@ -1,0 +1,26 @@
+{
+  "name": "Brett Frank",
+  "age": 34,
+  "address": {
+    "street": "Nasoj Turnpike",
+    "city": "Vedkomtis",
+    "state": "CO",
+    "zip": "41852"
+  },
+  "contact": {
+    "phone": "(404) 973-7682",
+    "servicePhone": "800463994"
+  },
+  "birthday": "1965-07-03T15:28:12.586Z",
+  "ip": "233.209.94.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Mezruvmir vegsoem fiwjuh jojjohara foku kusojfe sag holfelsed be papwig kakfiej cok. La waljurzu sesa junriz wiivajok mucrow afu da se bog vaji buwokun. Viwoj miodaso bufovpah tuhta bipib woivu zijohjuf lowiid netervip huk hol mum teagu. Uli kel apijis itgi tewakul usware hetisba duje ceco ve hefpacag cir ahmotga najezida amaon. Ufiem elu moj kel puv ipcuwdu cinwe jirde kubatoig fenej ihnowe kimakel og uri cizug loukegek.",
+    "bio": "Nocte kog tihamvu duwul ri res ekujecjo je is buzu ra olcadwu tefawtad vuwe. Ip ukisuna fehi hunhazi voarias andaam ci nimira jogjewgi vuvo fuser tu mawip fenibku tagim gacfisgu luhpompil. Ikmof owa simevuwi tibozat we japhara baulalov gowwaaz nuban onwud fumtoeb bupuuba sabewjeb bije rud rem sod. Indufe bacwilde osguf dage dakepun jisnahot ziad gowug joficuguc ceejaze dubo apbir datufe dek finlifra kavrad."
+  },
+  "apiKey": "1e38b06b7c7314ec4e77b9df82d2cf7684c13c2e0a5eddda1fcf609a6c5813c1",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
