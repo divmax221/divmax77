@@ -1,0 +1,26 @@
+{
+  "name": "Peter Stone",
+  "age": 38,
+  "address": {
+    "street": "Canha Plaza",
+    "city": "Daggemgan",
+    "state": "MN",
+    "zip": "02179"
+  },
+  "contact": {
+    "phone": "(612) 367-2135",
+    "servicePhone": "800425357"
+  },
+  "birthday": "1975-04-28T13:18:20.272Z",
+  "ip": "172.24.90.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Bim uhoifbe vucli jajke vausod udamilo ma zuntu ugelogaze ukoku heigso gosattum tebujmot tud lu. Liobe huw soltiew ru hin itirifwi si viceri adutuji habfupe di alaoge cezlef vep corpubuf iniatu ku. Fojmi ata kiete bilzaho icuaf wudo ve ha nuki ikbu zukameh obovitve omu lunuw hutatu asorim.",
+    "bio": "Gomawdar if no jilnuhe ujafived jiis jawi fub zah vo sofovsan potwapi duzevuc zine teso po zakelji ogruc. Tolat tosuddeh natjop otumib zovte ketitoum oreg esiefso ve rudrav ozoj didvivan hajsa su ucurih fegvuiko zuiba keg. Zoppot gubcumko zipiku guohjid medena hadho fus hu gubjozaze gujgalre caratcit boni jebota ubruc meg. Litabiw mul olsid su egijen tuusmif ew ehohis tufke ur otmucjaz ret ukhenuj abmuume tukebda pufo. Sad kalhesbi loj jeporju tapa bula hebhe zezni jid vuj ukilutsoc setica. De kesuc oborza cirkarzoc buzut majuji omopulja cob wejfome hu hi caf pomci."
+  },
+  "apiKey": "495550290148c39e94360cfdeb82c36a18682887ee89528a6678f894ae607d91",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
