@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Patrick",
+  "age": 35,
+  "address": {
+    "street": "Atalu Path",
+    "city": "Fedhobab",
+    "state": "DE",
+    "zip": "25225"
+  },
+  "contact": {
+    "phone": "(941) 835-1727",
+    "servicePhone": "800752653"
+  },
+  "birthday": "2002-11-18T18:32:33.645Z",
+  "ip": "64.141.156.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Inawuisa bu lij tafat tu kivtija ucehosja kejikpa sijre iffa obeovugag hucouc ot culak tiw ji latzegi bujfir. Geppazuc vek les do encasug so laceluw ajueh hojik lolanru ditsouco ci muhlokco erowuze op hogofe fakez ojrizgo. Ib hoz ti agaj ceho buj heg rufuek pumivhe lihepoz fiziile ec kohfuctu mac dazsobzuh pad.",
+    "bio": "Codpanpip efgo duhi nicul kefe pav fip paceveho kazbo muohaj ot hu femuba rabo. Riwrek butu bu vozifmin bu bi ref ucubelva ko budbikvil nomvizak hin erored omedga. Edmeki ne mifbevfa vuukesi wefera takozfu pidu uppa tedouk diknu ewa vob. Kot suil te ficki ipjukrif to fam keg dewaka ki obotani giv."
+  },
+  "apiKey": "16fcd93330c3b17c860b6f42a8b6d88d4736c046dfe19acd69164b4eeba160ae",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
