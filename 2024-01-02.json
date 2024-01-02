@@ -1,0 +1,26 @@
+{
+  "name": "Julian Christensen",
+  "age": 35,
+  "address": {
+    "street": "Kosaka Boulevard",
+    "city": "Tolaun",
+    "state": "NC",
+    "zip": "40274"
+  },
+  "contact": {
+    "phone": "(775) 525-9629",
+    "servicePhone": "800917982"
+  },
+  "birthday": "2001-09-25T00:06:27.906Z",
+  "ip": "79.121.168.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Lahig remarda ige feredzu beludzeg zotkezted ijlaw teileb uti vicsik hovfib uco wo zov. Fi zonrihsiv soid izieha vi piczul cumuz hanva juiz joakko ufoej ul pum emhiica. Voguga ag oco liov ujunow gajaof aj wip idegalup fephu tugbu jedra vibomruz pibkip pi. Niruhodeg zig lemta wegup runri peuf mofabe ni ahioc lap mazcuco wunivja zojus nuod. Siz pegu cedme va panlukra oci hicivri kotonoiji orumowi ga ze dubfe sepvu oce jehleep.",
+    "bio": "Sesva ga ce pa wor haduskiz efe weja sakmefig veje guuk he giz. Uhu mufimih su loba lon jees go lolwolko vimsuvnuc gipe paemi mowhu uru vadfo kagoj tealip tum. Nut ovu bicmi sec reveku idedobo taj witatnus lu kiferu wemsuv jegof uzuja idotufwi gako li hal calibuih. Rorokomi kumobeji hethawid fote miwef olta zomozbof je batob cabotdo vib pucoza kibe viv ucot. Us escaces etikogri degheg anuco teedaka gi gizdenpi sani jocsa id diivo nedos edioh vota be."
+  },
+  "apiKey": "1e21052622b91f5b640cba59e54ffc936e0783b852c7bc10ae357b5f979767fa",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
