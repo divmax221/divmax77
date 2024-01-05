@@ -1,0 +1,26 @@
+{
+  "name": "Luke Roy",
+  "age": 24,
+  "address": {
+    "street": "Rehu Highway",
+    "city": "Isuveke",
+    "state": "NJ",
+    "zip": "44313"
+  },
+  "contact": {
+    "phone": "(686) 337-5263",
+    "servicePhone": "800388289"
+  },
+  "birthday": "1963-06-17T05:10:54.365Z",
+  "ip": "91.76.101.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Leb ukipum nifo bipe aja reda mamaib nu gitig mojidihiw had hacun va fomaag ob li lek. Zi tewboreb comju suz makbonzic ere hetta rinlemzev homzifub pek pupgufi upzekte as soc cizmu vo. Igeod cele cud suszu ki dih poh gorurod pin dotak utan lalme nohkuwov. Ami ropbeab ovo tir wonkejid korlak mu wabdo oh secwas levzujsa hop. Es wemwotruz mornan kevra zowov fezve ke kedzi hir ifu ajruf rowdigec dunnu vobdatu. Mesod puhu safokbez imeta vuwwakme ru mudfacsu gajvakre riwalan us jewol otupirej nohibo juvam fanpinno. Unarirtow rokawzu zoc fitjudgiw gu iv gubi cafopo culmem goamaiki sidaf kugib iciwunwu erri sar hebmauh.",
+    "bio": "Pov cizape howvulil he cohe muibulo per mewe nomow sikujhe coojacov nukon cahoba ubebobcac bobet ekipihlof raibe. Sobodkef sampifcus uni jabeduci biskuvi iznobul asor weul lodaw baplo ma ikunomho vi hi jo ja ceva. Su jakutfos ketkatuc nafkodru fepohi wujul supdapkoh riit zok ma motodo ocvoncol afa okuwuzufa sic dofad fatsut. Tolezuf wuvep giugaec rofi usive bu nudubofu etilulbe omvalsi hewafvoz udcute sarefma luijulel umila gedva piboc vumdop miigil. Govdasiz tav ufbuohu megwi govnicisa ipcaw eplaz bukpewes lemimpas weheda zemom kuldeg jasiji ojewe lado."
+  },
+  "apiKey": "bd3bf19dcced25aa56c80a7bd36291197c156ae5b10578c73ad5d64042a28859",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
