@@ -1,0 +1,26 @@
+{
+  "name": "Ola Parks",
+  "age": 38,
+  "address": {
+    "street": "Rizoj Highway",
+    "city": "Kipuek",
+    "state": "SC",
+    "zip": "13206"
+  },
+  "contact": {
+    "phone": "(355) 803-5940",
+    "servicePhone": "800565344"
+  },
+  "birthday": "1992-11-29T10:23:23.545Z",
+  "ip": "185.85.195.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Hucbame te cofu reje faazse si ficug vesabsen az zedeka ih couzoket capfahi wohnego lefwutifo wo mogti. Iwu hajverjil adel gasi bihain gekrohnu wugu hofzo mote gehakal donoul izizozloj med. Banel vefvar lal mefa coano da luwo li obfoj ofomki ej gulipguk vu amaza avowafe dupij veitvop. Ehrum irisi roc ranilames ser nuc dikjow sejzetab bap kutegu vugom luib punun buc un va oluuh kumpofol.",
+    "bio": "Ho rujeuk ha fanuz golfowos pin tam hobu ri seh vofa ru sidse emgu baful noznita puf. Lasvapago gine uhe hopapfes fespewu sowege mi gu si palup narofgut idoijeen sohos lajal. Enovaga mi kaisuma cegupu nazed forgifu kawbepnew hesis sohku ehiteg ilubjuz ehadi pawihu iw houciwi nor. Du fitli vackul upun ogumaera bap kiddav aw uruvo di pibit nes juop."
+  },
+  "apiKey": "6444e8d5569591d6a94e38f0c3d94d85a97b3203f272d58d5ca789c29c549a81",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
