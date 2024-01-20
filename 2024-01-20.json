@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Kelly",
+  "age": 62,
+  "address": {
+    "street": "Gunduv Loop",
+    "city": "Nahzodo",
+    "state": "FL",
+    "zip": "34289"
+  },
+  "contact": {
+    "phone": "(253) 790-2865",
+    "servicePhone": "800213196"
+  },
+  "birthday": "1992-03-05T23:45:22.893Z",
+  "ip": "110.175.155.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Cum moug ajoaketun wecu si riegieva giglawsog sajakolo labovso muefo es elhataf. Ziwojte itze sibzi ludaj ba fidoj nu nofikvo nugjupov pajgabnat calco okenaf po fu mo kaskug ofwen tevvutami. Tohwi owloz dioli kupkiji of jecegige eni miw zec enorej nucebu mapoc aziko fab odsocluk bu aluna. Darhawla gajsa kuv buama sokiciv hezlikas oteitnaz pa zu ba adelu rovri ceet tekwopjiw wod ar buteb. Owujim nuceh opu hi ge pe naji uza ov omijipo letur nojewlob.",
+    "bio": "Irmos cevokzi mita noavfov jenfic marajca afe wurbu mevrej vi etuno ma vasuf ra tug. Ki boceilu egezdif nikuk geknecuw an bizsaw tiikuir ugonopem onotesha asirih cave dab fo fic. Vuvefki ivrabve nublubo wuf pu ohe ho iwpeweg il monged lozput heofikuk tim lepe coeh."
+  },
+  "apiKey": "e4a0344ae6b02711db00e0e707131082ac3daf3800868bbc761ee1e7ad6e052b",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
