@@ -1,0 +1,26 @@
+{
+  "name": "Christian Hart",
+  "age": 26,
+  "address": {
+    "street": "Meec Terrace",
+    "city": "Gonivo",
+    "state": "ID",
+    "zip": "37314"
+  },
+  "contact": {
+    "phone": "(247) 382-2935",
+    "servicePhone": "800275674"
+  },
+  "birthday": "2005-07-01T05:23:13.498Z",
+  "ip": "93.126.149.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Milbovanu picug omu pi itfag hodem ku ije piwe kedbo puz cij wo vewe miksa ofbu. Riknuhdi zik robu zar ohgeruvo row gabfa obojajo ivgorkel nolugku bobdit gonapke deam mazwovij nugedi fot ide ze. Nos wo isi ogo vel tab naovi zimmah eslobju sil bowejmip abzu tugribho lan ziv avoci musu.",
+    "bio": "Luh mamiki iraham gurro wo zacgoweh hipapwaj ma avowoloj awejo pec ragil wusfuhta nupeciho bivhew fa ufog cutetsez. Iwitoihe vu os devois ibrigapi wathin mor fagwo izastul indej kib je ijepojtuh bowutcu tefvuduh gefgedo cerdin sekedi. Rocen siume pojus uc pizbekpi si ilezimo wej feili muzon rubdir mizoji tep. Wek ruvuleb wobbiejo zad ciducrib ade hel fenej racef go luluj tupa dijga ufelep tavioba siv gusake."
+  },
+  "apiKey": "d556ccd628c5b1a949f6cb9042009525fd631b06e9aab40ac1b71021cf7c728b",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
