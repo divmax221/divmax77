@@ -1,0 +1,26 @@
+{
+  "name": "Andre George",
+  "age": 20,
+  "address": {
+    "street": "Revuc Trail",
+    "city": "Lekkuhot",
+    "state": "IA",
+    "zip": "44401"
+  },
+  "contact": {
+    "phone": "(412) 473-1533",
+    "servicePhone": "800896245"
+  },
+  "birthday": "1961-04-26T16:51:26.070Z",
+  "ip": "198.243.2.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Lasvo fu fola mud koj gece evo eheizaosu ridow unagim ocre bu. Zorpite pop ca hamiva wapkopup raebi cez cujace ba jansikic getnoujo pet ufunop bodofsa. Si bo rewcokoc favula mabja waple kijhofobi butfomic feze rebuzi mawilit ojo so oghewtif unijis. Milok pouk ivgo wernavge ibse pivwutoz je lazzifniw di wosoza jed kihve okse ab amuonoro fon mohdusze. Nusimvid ed cegha boc kolhuvi wazdot we lovli oduiwa utomod hi goco lat ko siksuj niodo. Sanija vov tofde perukok titzu jek nacowze ko ob cumda bowowelo bikam vekwonkuw cig beb.",
+    "bio": "Ew kapjo no wez etajanrik mudbucu kati fo wepaftok lomoz ne erewak ufi ocanibu. Ti tedbom law itosaf odo botar luwub ih tibulud wo geodo sejdi sef horegaw menuh. Ko oc li lonmi relewso kiknad hadi pasiloz gamotudew avojuka neccesza te fierbi turja logud aramer."
+  },
+  "apiKey": "ef5ef3473f0a4f59965b5c27a76422fbcbc957522111472f55bbc0f5ce498e53",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
