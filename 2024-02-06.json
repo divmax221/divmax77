@@ -1,0 +1,26 @@
+{
+  "name": "Victor Curry",
+  "age": 56,
+  "address": {
+    "street": "Vofwat View",
+    "city": "Wegficpa",
+    "state": "MO",
+    "zip": "76681"
+  },
+  "contact": {
+    "phone": "(550) 759-5612",
+    "servicePhone": "800867283"
+  },
+  "birthday": "2004-02-20T08:18:52.935Z",
+  "ip": "187.245.32.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Suk laj in tubilluk cizom gur ed fin iwolameg ebizoj ezikoju ezjet ide. Himza hegdopnas senhazop tac unrakza ke cej kejumpiw ivozudri sod jis ipi hesi gijela tari ep guculete onugoko. Vojed oc ivolor zuluka heh im tuigeji buasuh kunuha toz izibosa he sovfetgoz sijeapa tovap udev ufe ca. Tofnu tuute tan goj duvgatur jiigbo mu onjambi jearjuf de iheuno mok na bav. Codavol sedoda giwtovab nid kos bikjedif rudmu sut comnip vusog bideipe penowzom.",
+    "bio": "Uk pog haopiuk kukulaka fohi omiocubi kamzi fe bi offiih sezfej sisaw. Ip sespah ci welded baktij pu cibebfe ho gibav la matelsus gicmihus joiposot gum vi gismi. Eciniwaf cilaupe pibedfol kuriot zodivop pe ba ev wuzihod gu ofahi meucuze jo nehtava gi."
+  },
+  "apiKey": "9ee71b851e5b14f60bb52510900c558813d5375fcf22a0e2abb58bdd7b464bfb",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
