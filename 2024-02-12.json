@@ -1,0 +1,26 @@
+{
+  "name": "Louis Tran",
+  "age": 20,
+  "address": {
+    "street": "Nojju Ridge",
+    "city": "Jidohli",
+    "state": "OH",
+    "zip": "42633"
+  },
+  "contact": {
+    "phone": "(331) 800-7978",
+    "servicePhone": "800513847"
+  },
+  "birthday": "1999-03-09T13:37:52.140Z",
+  "ip": "168.14.10.61",
+  "foo": "bar",
+  "profile": {
+    "about": "In tad turpav ic jupku robdus hihej pedeva naw ciatdej le kahaw rub melo rucepip deeb ilvece. Vug zecohwit socveuti ah dilvupuw nuubo eha cobaf fihi jihwo saf hamrahuv uhvonu gonoem pa. Tupumni rim viw agodo zah hagohlej jewbokno caowu inabajojo bullecka fo kotzej ci ta meh feilu. Meja sasew muzag uma taaba mobkaja jiwmiv erjoddac og pivwa nuroznop zuwkawar.",
+    "bio": "Ur bah nadicci ohijemlim apcev ka il vedseet takotja mecmu kunnaim pe kup egostu mukzu. Jupre olatazkad jinta liwucog rufudo az corguuw dikob tabiik tu joit jenhikgi ekuguw dorik fawu niza rejlo henhedja. Liril vajvosij uccufuk lamih nalmis mut horbig miva it doda ihomodri linuvi hekarecez. Omugnun gog tudup ko jasbi vobedbob se jor seppu tekdovza ekebutlo najan newtu atnotot olmaw. Se niv kiig bez pemammum cofe giswisol zama tigrire wuh huw uke zusuzra gewati uptogat bipbo divowu."
+  },
+  "apiKey": "2a4402cd5d4deb39388da48b86fa52d69ae7f15d6ecbeb966c59c1cbab41f3b2",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
