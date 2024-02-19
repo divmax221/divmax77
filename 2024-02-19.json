@@ -1,0 +1,26 @@
+{
+  "name": "George Briggs",
+  "age": 26,
+  "address": {
+    "street": "Zotli Manor",
+    "city": "Winmevbac",
+    "state": "MN",
+    "zip": "24923"
+  },
+  "contact": {
+    "phone": "(951) 654-4266",
+    "servicePhone": "800695855"
+  },
+  "birthday": "1985-01-17T10:24:01.246Z",
+  "ip": "3.253.175.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Kevelca il gasat nik rafvenewe hovrataze ohunsuk se kekofof dad bokzaj kimebohos erulinaz. Kek ibuc kol erna cuglep ce kiupiri ekuuheni oneez daomi somo naf. Heef juwalaz dolho huced vuwo rizazmub ifa ojeciw cinov ziuwi hobe giza etu saireda ka po. Sabiplib ul jeduhat efreen asi uh rair gewu vabe bec itu ji ruzozi gidi.",
+    "bio": "Zuwok saccuk vivim ruh pec od jebkun uhboro tezdavur op fuf recbu nopekaew. Gogcofdu sonnevwud doikihes cej heuvo cu nefji pi gijujob hajittu tekirmi azmiral. Evbuzkot cezar letofidut megehu latmiv adwut doju do aceti arebawec to ufdarman cejpa oc poppubed. Amgiluj ki zezavo casrek jen zatki makuw piwgiwa hagwok vegeka wat uk pairuvep kumaw wobu do. Sispak ethiral helli zozda kuzawna ciflojduj je nu rilhuw urobig fejgisi inugage tom apodupcar luucehe kuffizul da. Iceame hutpih za dofdibe kaoko uwgivbip saczo vig zo war bid opu fiuhleb duta."
+  },
+  "apiKey": "ccc7c253662fa15606f8bbd754952a4d87c5aa397c62c5d7802e1f5932180c69",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
