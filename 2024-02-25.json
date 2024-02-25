@@ -1,0 +1,26 @@
+{
+  "name": "Elizabeth Pierce",
+  "age": 23,
+  "address": {
+    "street": "Cuzah Heights",
+    "city": "Zehevot",
+    "state": "KY",
+    "zip": "40375"
+  },
+  "contact": {
+    "phone": "(413) 834-9604",
+    "servicePhone": "800516619"
+  },
+  "birthday": "1997-08-16T01:16:17.812Z",
+  "ip": "92.53.142.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Jasiw ifo atwismaz vojman ber soktep fef do bonecwo desuzzo fi tuaneipe. Oc focu fa cihi jafboj zalvor wi wec librian gokkugu pa jos cetrez ome te. Davi lacugito af rarbewow rupu heti ufe midboku hu hapegija ru kude we.",
+    "bio": "Obaw iteudeve meripuha lun divpuntit rorrol matobuk ivedu inmendod zetkifum bev sunig va nidag tuhiv upco jungig dehpedgip. Deguddeg ke wat apicu zihbah gefno ivade sukekuka ow nivemace rewrij evid. Fizu pubavi vomi cu hiuh wifke wufvohigi po mib nogwanip cipditawa wodezbu weczi ses."
+  },
+  "apiKey": "55b05c15b0a94bb05c2eff804119e75f0bfe58533549d8a8b6cb0ceb806ee3f9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
