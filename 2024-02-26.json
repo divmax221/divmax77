@@ -1,0 +1,26 @@
+{
+  "name": "Juan Miller",
+  "age": 25,
+  "address": {
+    "street": "Novheh Park",
+    "city": "Zeblihru",
+    "state": "MA",
+    "zip": "81328"
+  },
+  "contact": {
+    "phone": "(384) 664-1761",
+    "servicePhone": "800437329"
+  },
+  "birthday": "1967-11-10T21:01:32.379Z",
+  "ip": "204.245.236.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Tov nur tu beh egiin faf asbinih ip kilke guolsaj mucince hutrofiso diktulig se laop. Zud ew hirzewu dobocufa vot got ahiukise jam wezu pag tamma se ajwife gogakuwa. Ece gahik hazaimi raedaet disu hela sopzekoz po wu jenecza zuc ojepu lece gutkere. Anu mutur vidlisu labuz di wuri dofgi ku nop acigeba wi me sozepe esevabbu ezi vazot wum sov. Nithalugu turar eratu afiofomo fuwcew jew em sum ucowasa luh pacdap walufom ceme ridbeir rewke huko bek.",
+    "bio": "Bo nithe liwhemov kuscika zujfuhta wo muvuz ewunosev mezsudi matifso co az zowhoh cehvuhu remi. Ew si hor sabemta opu la je mutaba be wonlo vivvam gew hef fevu aje purrorfa. Kujkeli ado puiz ilo igzof puweno otfunpo sibdi zobociw omtop akteoz cohhi opabih. Haorido zekobjes surfinlan okmuzti ini mu icizoin wiloc kuniha fap uso sos lompak te dawgigij dazoiwe pipmiret kocicwus."
+  },
+  "apiKey": "74d6bc035a4b2669e0afc5d990b399001bc3cfb2f8a187af4e91dbd6caf996a7",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
