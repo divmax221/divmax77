@@ -1,0 +1,26 @@
+{
+  "name": "Mike Carroll",
+  "age": 35,
+  "address": {
+    "street": "Nerow Street",
+    "city": "Kobsafu",
+    "state": "WY",
+    "zip": "58257"
+  },
+  "contact": {
+    "phone": "(208) 447-1754",
+    "servicePhone": "800821752"
+  },
+  "birthday": "1981-08-09T14:57:49.590Z",
+  "ip": "167.234.172.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Dewhuz gigo urnetwe gut cu genev pes pi zamcezwa jo cek so talkiz ajulenu nanaswe mij. Sum pizohmo zedjuci romofzez netah cel gojdos rulfaj dizom ogaiji bab ojealwa. Fe dic umjiiv lak vomnok fim ok cobumauwu uf ja bevjopof mislu done hite evumicpe.",
+    "bio": "Cew zek lo umivu pon jugmogtud vucjalfa nu wapeziw enealu sejhuj celapme ari nanvef wopeda cez. Cimonos nogohvok duzipva icuogwir jerhohlit za ho lilijkep vevcoisu ahepag ku zitaog ro oga abevsic nilo roz mav. Ja buzepfo inudto ovcar itateehu agomtid lacbi puz jiwataza rodda pebwej pi haicuza. Asejeno zivwas okilac ajbow tub zop koc nipuri jit owizowe ra haggitfop pulo hiuzzal tu cos tuem."
+  },
+  "apiKey": "166f44c83510301a9e10a1152960ef3305728a7d765066f1f7a301dc402d9a4d",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
