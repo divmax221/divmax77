@@ -1,0 +1,26 @@
+{
+  "name": "Alan Young",
+  "age": 30,
+  "address": {
+    "street": "Nihol View",
+    "city": "Pepvobba",
+    "state": "WA",
+    "zip": "11748"
+  },
+  "contact": {
+    "phone": "(260) 965-3709",
+    "servicePhone": "800864135"
+  },
+  "birthday": "1967-07-19T21:22:48.738Z",
+  "ip": "50.229.189.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ita zo nuzec nefefoc omnos ho notsaz falu dawag maivihe ijaitri peiro. Raagvo nuz dana ar nug sug cat wabda zu ke cawnewse tofhujir. Goazijin fi masadikuf negul genicna do figwuzne tejju fem zajzitvi du vuz sep. Om zeron ipwejif doje cek gebto va kamfa nut vat kenig wifij rodsovjes tajwavjo gove riamoj zuvloccu zeujuti. Rotap fo coowjo ertihid lobivoj ipiule zow pezro cupu ij ateramcow wuib unhurnor ek. Sal ge loreli la rec ti zep vikmi zijra pacboz vuje mo diadpag. Pudvakdi vuwufot jantuog zukuvi guna pimmen emugez hetek igufenpi lelocife bew bu ud jewupvi riuzasi.",
+    "bio": "Man vopoh latumop ahani iwu hate ecodev ecozo tevna wokivpu jufibvi am minab bofesdor pamibudo jucru siewu. Hif med kedintej rokfize supedis ducikom ki rogikuw kelado surrelad difo gi uvco oha wen. Isi ifhi dirga cicje diveowa pu negamuduc jewdo mafgirze ehnu zi pejtu ire igonucaj wegewawu ucinat hu pulu. Rijavpe pula leca je eh idupe olhum padda rottol heszedu tocu vivkus. Totorda rozi ke pejid tomhuwohu majzapur picfi povufmo jeula ifa jooz kagaaj nirdi cuctu. Recuta wunida suhupoz ga duzgotam po potiohi zav map muwred eseudbon mu azsed idupivit vov uz sujagomo sor. Vap lagenab kunmolipe za wa kocen meznen bonut vo duse pozgi zeluta sutcedi."
+  },
+  "apiKey": "e68b2503fb21bff87d020662ad483819ef9a0a2fd07c749263c3e25b17e4db5d",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
