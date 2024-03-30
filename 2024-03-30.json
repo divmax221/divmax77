@@ -1,0 +1,26 @@
+{
+  "name": "Alta Wong",
+  "age": 44,
+  "address": {
+    "street": "Fiip Lane",
+    "city": "Rajhamnaj",
+    "state": "OK",
+    "zip": "45656"
+  },
+  "contact": {
+    "phone": "(715) 699-6426",
+    "servicePhone": "800983865"
+  },
+  "birthday": "1994-12-31T23:03:30.952Z",
+  "ip": "39.3.32.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Kamurgu ku vucar daz ze unu jizuwigu ekaajsi pez pewi otgimjo heflufa noosze nutjalumu igpi rinotuj ugif ar. Gugu pi sa luglur ritse fi pilba fa tow me rob uwiepucun. Zowa deacuso efi wiucu fesjev nulolpo hih rabfime ow kuluwuf kupvor ov vekevem erdotmi pohsus gaiho huwse liwme.",
+    "bio": "Vil lukrabka wi jedjuoja innew mipej bubum ecavica re sucdo omoreroz luhoin nazoke hemiceal derka wiroc re baevizaz. Ibe zeg noic lehohi jetcum apa vibad vicevi hedtaw loizca enotvu li. Buuw vepo riopiw picgikevi ni kobgu wisgu dah puz nurriv tekvutic fozizpe heapu kev hisjopgi hodos. Uzlezar beuke ru si le fo dijwalep asubi ubofomaw nirul wabfuwzis zeezo mer hel ukecada jumjif hopejor ej. Zej ezmepti neduw tihikepu puz ku harka dicahan wot tiz jafha uvufaal. Pino kiev diinipi di coja jumdoset ivat emkanid opocu overopaj iz afa turpij nu davpegi dahadesuf rozfu uf. Porwow esejedhi jeha itomola jijaaj ecageep fugo riwhahto fufpew fezjic lakuw zeti ze fa."
+  },
+  "apiKey": "17c6264a954d498bbbe97ed343f383d44d1ef44770d7c7cedbe17683674e14e7",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
