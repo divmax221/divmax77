@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Barker",
+  "age": 37,
+  "address": {
+    "street": "Liud Parkway",
+    "city": "Kemasozi",
+    "state": "AK",
+    "zip": "22567"
+  },
+  "contact": {
+    "phone": "(930) 745-5665",
+    "servicePhone": "800437733"
+  },
+  "birthday": "1992-01-01T22:31:24.257Z",
+  "ip": "111.89.224.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Conko remoj naop kemtohug veof ufeivaji pagvifuf ekomo ludhaf zokop vugfudov bib foddi. Dog ufgutwu erhuke ihule awointev zemar sib weh bekuhdil jiw la nuv fo rowecrus hicid kehif casuc. Ogufev aza hocarham caporo kuwlapwom zon ace mo po pud jokuah amtuhuw. Ulodoeva tuk cubah si osteuw ufe hipaj viknouda pu cisre ov ikohoppo.",
+    "bio": "Cab ab cefjoc gajirda wicuj zuk julkew siju cusopa hoas ecsufkep zeuvi. Fimojpat fuuso nurwil foptona fa zawlizo wu ozi jejo hilbo su masucab sojulno los amo fa. Gitepma zaplolvo juniimi ral mopateh tihuzpo udzazo azogud gorja bazen zukhuz ilduasi ot ma."
+  },
+  "apiKey": "8cff3ad8f51243bf5336cba9f8f009bcc304dd8a7fbea6af9bfc15def7e20c46",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
